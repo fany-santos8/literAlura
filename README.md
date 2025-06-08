@@ -1,5 +1,5 @@
 # 📖LiterAlura ![Static Badge](https://img.shields.io/badge/CONCLU%C3%8DDO-%236DB33F?style=flat-square&color=%236DB33F)
-📅Tuesday, 19th 2024 - 📍São Paulo, Brazil<br>
+📅Tuesday, 07th 2025 - 📍RJ, Brazil<br>
 🌎[@Alura](https://www.alura.com.br/) [@One](https://www.oracle.com/br/)<br>
  
 ![Static Badge](https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&labelColor=black)
